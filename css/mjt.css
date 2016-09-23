@@ -1,0 +1,41 @@
+.bnav {
+  text-align: center;
+}
+.back {
+  background-image: url('images/jtm.jpg');
+  background-size: 1800px 1080px;
+}
+
+.drunk_pic {
+  width: 300px;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  color: skyblue;
+  background-color: rgba(20, 0, 0, 0.5);
+}
+
+.wine {
+  margin-top: 400px;
+  color: white;
+}
+
+.wine h2 {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+#jess {
+  font-family: 'Rock Salt', cursive;
+}
+
+#mrinsin{
+font-family: 'Nosifer', cursive;
+}
+
+#joe {
+  font-family: 'Ewert', cursive;
+}

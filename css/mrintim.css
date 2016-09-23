@@ -1,0 +1,27 @@
+.carousel_pic{
+  min-height: 350px;
+  max-height: 350px;
+}
+
+.back {
+  background-image: url('http://customdecorinc.com/images/Bottle-Rack-Color.gif');
+}
+
+h1,h2 {
+  color:	white;
+  background-color: black;
+}
+
+.drink_img {
+  height: 300px;
+  width: 450px;
+}
+
+#call_us {
+  font-family: 'Monoton', cursive;
+  font-size: 15px;
+}
+
+h1 {
+  font-family: 'Modak', cursive;
+}
